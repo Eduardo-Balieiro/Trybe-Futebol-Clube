@@ -35,7 +35,7 @@ Para adicionar uma partida foi necessário ter um token, portanto a pessoa dever
 O meu back-end implementou regras de negócio para popular adequadamente a tabela disponível no front-end que será exibida para a pessoa usuária do sistema.
 
 <details>
-<h3><summary>🖼 images do site</summary><br><h3>
+<h3>🖼 images do site<br><h3>
 
 ![Modelo de tabelas](images/Login-Page.png)
 ![Modelo de tabelas](images/Classification-Page.png)
