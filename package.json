@@ -1,0 +1,16 @@
+{
+  "name": "trybe-futebol-club",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compose:up": "(docker-compose up -d --build)",
+    "compose:down": "(docker-compose down --remove-orphans)",
+    "logs": "docker-compose logs -f"
+  },
+  "author": "",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
