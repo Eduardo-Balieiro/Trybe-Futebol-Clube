@@ -34,6 +34,13 @@ Para adicionar uma partida foi necessário ter um token, portanto a pessoa dever
 
 O meu back-end implementou regras de negócio para popular adequadamente a tabela disponível no front-end que será exibida para a pessoa usuária do sistema.
 
+<details>
+<summary>🖼 images do site</summary><br>
+
+![Modelo de tabelas](images/Login-Page.png)
+![Modelo de tabelas](images/Classification-Page.png)
+</details>
+
 ## :rocket: Tecnologias ##
 
 #### As seguintes tecnologias foram utilizadas no projeto:
