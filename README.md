@@ -34,12 +34,12 @@ Para adicionar uma partida foi necessário ter um token, portanto a pessoa dever
 
 O meu back-end implementou regras de negócio para popular adequadamente a tabela disponível no front-end que será exibida para a pessoa usuária do sistema.
 
-<details> Imagens
-<h3><summary>🖼 images do site</summary><br><h3>
+<h3><details>
+<summary>🖼 images do site</summary><br>
 
 ![Modelo de tabelas](images/Login-Page.png)
 ![Modelo de tabelas](images/Classification-Page.png)
-</details>
+</details><h3>
 
 ## :rocket: Tecnologias ##
 
